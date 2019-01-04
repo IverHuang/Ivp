@@ -1,0 +1,4 @@
+body .block :global(.ant-card-head-title){
+  color: #ffffff;
+  font-size: 20px;
+}
